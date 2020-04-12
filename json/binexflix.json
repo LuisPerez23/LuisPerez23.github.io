@@ -1,0 +1,46 @@
+{
+	"status": "ok",
+	"resultados": 10,
+	"bines":[
+		{
+			"tipo": "Netflix",
+			"bin": "12345xxxxxxxxxxx",
+			"fecha": "09/23",
+			"cvc": 902,
+			"pais": "Colombia",
+			"vpn": "VpnHub"
+		},
+		{
+			"tipo": "Amazon",
+			"bin": "12345xx11xxxxxxx",
+			"fecha": "09/23",
+			"cvc": 32,
+			"pais": "Chile",
+			"vpn": "VpnHub"
+		},
+		{
+			"tipo": "Facebook",
+			"bin": "12345xx12xxxxxxx",
+			"fecha": "09/23",
+			"cvc": 134,
+			"pais": "Mexico",
+			"vpn": "VpnHub"
+		},
+		{
+			"tipo": "Netflix",
+			"bin": "12345xx13xxxxxxx",
+			"fecha": "09/23",
+			"cvc": 123,
+			"pais": "Colombia",
+			"vpn": "VpnHub"
+		},
+		{
+			"tipo": "Spotify",
+			"bin": "12345xxx14xxxxxx",
+			"fecha": "09/23",
+			"cvc": 912,
+			"pais": "Usa",
+			"vpn": "VpnHub"
+		},
+	]
+}
